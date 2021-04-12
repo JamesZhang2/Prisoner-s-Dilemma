@@ -13,6 +13,7 @@
 Imports System.IO
 Public Class Form1
     Public know As Integer  'How much they know about Game Theory
+    Public kind As Boolean  'Whether to begin with kind or unkind opponents
     Public YourScore(0 To 5), OppScore(0 To 5), TotalScore As Integer  'Your score and your opponents' score
     Public YourChoice(0 To 5, 0 To 8), OppChoice(0 To 5, 0 To 8) As Integer  'Your choice and your opponents' choice. 0 = Betray, 1 = Cooperate
     Public turn(0 To 5) As Integer  'Current turn
@@ -24,6 +25,11 @@ Public Class Form1
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Initialize()
+        If Rnd() < 0.5 Then
+            kind = False
+        Else
+            kind = True
+        End If
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
@@ -487,9 +493,10 @@ Public Class Form1
     End Sub
 
     Sub PrintData()
-        FileName = "D:\record-" & TextBoxName.Text & ".txt"
-        FileWriter = New StreamWriter(FileName)
-        TextOfFile = "name: " & TextBoxName.Text & ","
+        FileName = "D:\record.txt"
+        FileWriter = New StreamWriter(FileName, True)     'Can append message without overwriting existing messages
+        TextOfFile = "kind,"
+        TextOfFile += "name: " & TextBoxName.Text & ","
         TextOfFile += "knowledge: " & know & ","
         TextOfFile += "round 1,"
         For i = 1 To 6

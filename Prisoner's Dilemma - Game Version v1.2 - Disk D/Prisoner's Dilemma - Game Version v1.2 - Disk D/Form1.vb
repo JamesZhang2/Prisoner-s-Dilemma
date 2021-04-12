@@ -485,9 +485,10 @@ Public Class Form1
     End Sub
 
     Sub PrintData()
-        FileName = "D:\record-" & TextBoxName.Text & ".txt"
-        FileWriter = New StreamWriter(FileName)
-        TextOfFile = "name: " & TextBoxName.Text & ","
+        FileName = "D:\record.txt"
+        FileWriter = New StreamWriter(FileName, True)     'Can append message without overwriting existing messages
+        TextOfFile = "unkind,"
+        TextOfFile += "name: " & TextBoxName.Text & ","
         TextOfFile += "knowledge: " & know & ","
         TextOfFile += "round 1,"
         For i = 1 To 6

@@ -10,3 +10,15 @@ C:\Users\james\source\repos\Prisoner's Dilemma - Game Version v1.3 - Disk D\Pris
 C:\Users\james\source\repos\Prisoner's Dilemma - Game Version v1.3 - Disk D\Prisoner's Dilemma - Game Version v1.3 - Disk D\obj\Debug\Prisoner's Dilemma - Game Version v1.3 - Disk D.exe
 C:\Users\james\source\repos\Prisoner's Dilemma - Game Version v1.3 - Disk D\Prisoner's Dilemma - Game Version v1.3 - Disk D\obj\Debug\Prisoner's Dilemma - Game Version v1.3 - Disk D.xml
 C:\Users\james\source\repos\Prisoner's Dilemma - Game Version v1.3 - Disk D\Prisoner's Dilemma - Game Version v1.3 - Disk D\obj\Debug\Prisoner's Dilemma - Game Version v1.3 - Disk D.pdb
+D:\GitHub\Prisoner-s-Dilemma\Prisoner's Dilemma - Game Version v1.3 - Disk D\Prisoner's Dilemma - Game Version v1.3 - Disk D\bin\Debug\Prisoner's Dilemma - Game Version v1.3 - Disk D.exe.config
+D:\GitHub\Prisoner-s-Dilemma\Prisoner's Dilemma - Game Version v1.3 - Disk D\Prisoner's Dilemma - Game Version v1.3 - Disk D\bin\Debug\Prisoner's Dilemma - Game Version v1.3 - Disk D.exe
+D:\GitHub\Prisoner-s-Dilemma\Prisoner's Dilemma - Game Version v1.3 - Disk D\Prisoner's Dilemma - Game Version v1.3 - Disk D\bin\Debug\Prisoner's Dilemma - Game Version v1.3 - Disk D.pdb
+D:\GitHub\Prisoner-s-Dilemma\Prisoner's Dilemma - Game Version v1.3 - Disk D\Prisoner's Dilemma - Game Version v1.3 - Disk D\bin\Debug\Prisoner's Dilemma - Game Version v1.3 - Disk D.xml
+D:\GitHub\Prisoner-s-Dilemma\Prisoner's Dilemma - Game Version v1.3 - Disk D\Prisoner's Dilemma - Game Version v1.3 - Disk D\obj\Debug\Prisoner's Dilemma - Game Version v1.3 - Disk D.vbprojAssemblyReference.cache
+D:\GitHub\Prisoner-s-Dilemma\Prisoner's Dilemma - Game Version v1.3 - Disk D\Prisoner's Dilemma - Game Version v1.3 - Disk D\obj\Debug\Prisoner_s_Dilemma___Game_Version_v1._3___Disk_D.Form1.resources
+D:\GitHub\Prisoner-s-Dilemma\Prisoner's Dilemma - Game Version v1.3 - Disk D\Prisoner's Dilemma - Game Version v1.3 - Disk D\obj\Debug\Prisoner_s_Dilemma___Game_Version_v1._3___Disk_D.Resources.resources
+D:\GitHub\Prisoner-s-Dilemma\Prisoner's Dilemma - Game Version v1.3 - Disk D\Prisoner's Dilemma - Game Version v1.3 - Disk D\obj\Debug\Prisoner's Dilemma - Game Version v1.3 - Disk D.vbproj.GenerateResource.cache
+D:\GitHub\Prisoner-s-Dilemma\Prisoner's Dilemma - Game Version v1.3 - Disk D\Prisoner's Dilemma - Game Version v1.3 - Disk D\obj\Debug\Prisoner's Dilemma - Game Version v1.3 - Disk D.vbproj.CoreCompileInputs.cache
+D:\GitHub\Prisoner-s-Dilemma\Prisoner's Dilemma - Game Version v1.3 - Disk D\Prisoner's Dilemma - Game Version v1.3 - Disk D\obj\Debug\Prisoner's Dilemma - Game Version v1.3 - Disk D.exe
+D:\GitHub\Prisoner-s-Dilemma\Prisoner's Dilemma - Game Version v1.3 - Disk D\Prisoner's Dilemma - Game Version v1.3 - Disk D\obj\Debug\Prisoner's Dilemma - Game Version v1.3 - Disk D.xml
+D:\GitHub\Prisoner-s-Dilemma\Prisoner's Dilemma - Game Version v1.3 - Disk D\Prisoner's Dilemma - Game Version v1.3 - Disk D\obj\Debug\Prisoner's Dilemma - Game Version v1.3 - Disk D.pdb
